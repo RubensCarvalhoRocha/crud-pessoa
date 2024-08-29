@@ -1,4 +1,4 @@
-# Aula1
+# Aula1 da disciplina de Interação Humano Computador Eng.Software
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.2.3.
 
